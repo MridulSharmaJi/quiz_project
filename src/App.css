@@ -1,24 +1,4 @@
 
-.bgimg{
-  background-image: url("./images/score.jpg");
-  background-repeat: no-repeat;
-  min-height: 600px;
-  background-size: cover;
-  background-position: center;
-  min-height: 100%;
-  min-width: 1024px;
-	
-  /* Set up proportionate scaling */
-  width: 100%;
-  height: auto;
-	
-  /* Set up positioning */
-  position: fixed;
-  top: 0;
-  left: 0;
-
-}
-
 .bgi{
   background-image: url("./images/back.jpg");
   min-height: 600px;
@@ -170,11 +150,6 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-.loginbg{
-  background-image: url('./images/Ridge-Design-Website-Design-Background.jpg');
-
 }
 
 .quizcard{
